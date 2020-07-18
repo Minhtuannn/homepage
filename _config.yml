@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: You are my sunshine
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Someone call me is Tuan, another call me is my hearts <3 
 
 # --- List of links in the navigation bar --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: ngominhtuan311@gmail.com
+  facebook: https://www.facebook.com/minhtuannn311
+  github: 
+  twitter: https://twitter.com/corn_green
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -68,11 +68,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  gmail: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "you are my sunshine"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -126,7 +127,7 @@ footer-link-col: "#404040"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: ""
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
@@ -156,7 +157,7 @@ footer-link-col: "#404040"
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "Nice to see you"
+title-separator: "-"
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
@@ -168,7 +169,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Vietnam/Hanoi"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
